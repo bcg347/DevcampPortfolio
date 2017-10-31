@@ -1,3 +1,9 @@
+GIT
+  remote: https://github.com/bcg347/bgordon_view_tool
+  revision: 7c2734ffcac59a7e8f59cee263be1cc49c7155d3
+  specs:
+    bgordon_view_tool (0.1.0)
+
 GEM
   remote: https://rubygems.org/
   specs:
@@ -191,6 +197,7 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
+  bgordon_view_tool!
   bootstrap (~> 4.0.0.beta2.1)
   byebug
   coffee-rails (~> 4.2)
