@@ -143,7 +143,7 @@ body {
 
   /* Start the vertical centering */
   .site-wrapper-inner {
-    vertical-align: middle;
+    vertical-align: middle !important;
   }
 
   /* Handle the widths */
@@ -160,4 +160,17 @@ body {
   .cover-container {
     width: 55rem;
   }
+}
+
+/*
+ * Custom Styles
+ */
+ 
+.card-block {
+  color: black;
+  text-align: left;
+}
+
+.auth-links a {
+  color: black;
 }
