@@ -227,8 +227,9 @@ body {
   text-align: left;
 }
 
-.app-card-containe > .card {
+.app-card-container > .card {
   padding: 40px;
+  
 }
 
 .profile-img {
@@ -237,4 +238,9 @@ body {
 
 .app-card-container a {
   color: blue;
+}
+
+.card-block {
+  margin-top: 5px;
+  margin-bottom: 5px;
 }
