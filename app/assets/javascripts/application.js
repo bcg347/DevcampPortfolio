@@ -12,8 +12,8 @@
 //
 
 //= require jquery3
-//= require turbolinks
 //= require rails-ujs
+//= require turbolinks
 //= require jquery-ui
 //= require html.sortable
 //= require cocoon
