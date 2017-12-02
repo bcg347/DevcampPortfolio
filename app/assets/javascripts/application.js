@@ -11,6 +11,7 @@
 // about supported directives.
 //
 
+//= require bootstrap-sprockets
 //= require turbolinks
 //= require jquery
 //= require jquery_ujs
@@ -22,4 +23,3 @@
 //= require typed-implementation
 //= require cable
 //= require_tree .
-//= require bootstrap-sprockets
